@@ -5,7 +5,7 @@ Breve tutorial de instalação e utilização da opencv.
 
 Arch Linux:
 
-```pacman -S base-devel opencv```
+```$ pacman -S base-devel opencv```
 
 # Tutorial
 
@@ -48,7 +48,7 @@ cv::imwrite("imgs/gray_pokan.png", gray_pokan);
 
 Para compilar o exemplo acima execute, dentro da pasta opencvTutorial, o comando seguinte:
 
-```make rgb2gray```
+```$ make rgb2gray```
 
 Após compilado execute:
 
