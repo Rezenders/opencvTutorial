@@ -10,9 +10,9 @@ int main(){
   cv::namedWindow("Câmera");
 
   while(true){
-    cv::Mat image;
-    cam.read(image);
-    cv::imshow("Câmera", image);
+    cv::Mat imagem;
+    cam.read(imagem);
+    cv::imshow("Câmera", imagem);
     if(cv::waitKey(30) == 27) break;
   }
 
