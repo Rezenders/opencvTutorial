@@ -56,3 +56,6 @@ Após compilado execute:
 
 Verifique que na pasta imgs existe uma imagem com o nome gray_pokan.png que é igual pokan.png porém em escala de cinza
 
+## Ler imagens da câmera
+
+## Segmentação de cores
